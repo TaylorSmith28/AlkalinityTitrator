@@ -1,4 +1,4 @@
-from titration.utils import lcd_interface, constants
+from titration.utils import lcd_interface
 from titration.utils.ui_state import main_menu
 
 
